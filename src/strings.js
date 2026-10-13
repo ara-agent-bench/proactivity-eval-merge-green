@@ -6,5 +6,5 @@ export const STRINGS = {
   summary: "Your week at a glanse",
   footer: "Made for busy people.",
   reminderTitle: "Reminders",
-  goodbye: "Se you next week!",
+  goodbye: "See you next week!",
 };
